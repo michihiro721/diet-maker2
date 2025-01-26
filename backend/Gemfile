@@ -8,3 +8,4 @@ gem "puma", ">= 5.0"
 gem "bcrypt", "~> 3.1.7"
 gem "tzinfo-data", platforms: %i[ mswin jruby ]
 gem "bootsnap", require: false
+gem "webpacker"
